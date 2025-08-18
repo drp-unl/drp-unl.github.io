@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <title> DRP</title>
+</head>
+<body>
+
+  <div class="header">
+  <img style="position:absolute;right:43px;top:63px;widht:90px;height:90px;" src="assets/images/logo.svg" alt="UNL">
+  <h1>DRP @ UNL</h1>
+  <p> Directed Reading Program of the Mathematics Department<br>University of Nebraska-Lincoln            </p>
+</div>
+
+		<div class="topnav">
+
+			<a href="index.html">Home</a>
+
+ 			<a href="expectations.html">Expectations</a>
+
+			<a style="cursor:default; background-color:#d00000;">Projects</a>
+
+			<a href="howtoapply.html" style="float:right;">How to Apply</a>
+
+		</div>
+
+		<div class="card">
+			<h2> Project List </h2> <hr>
+			This is a list of topics proposed by current graduate students interested in mentoring this semester.
+
+
+			<h3> Discrete Math </h3> <hr>
+
+			<ul>
+				<li style="margin-bottom:10px;">(<b>Combinatorial Game Theory and/or Surreal Numbers</b>) Combinatorial game theory is the study of two player games of pure strategy (no randomness or hidden information) and is not related to the game thoery in economics.
+				</li>
+
+				<li style="margin-bottom:10px;">(<b>Graph Theory</b>) This project will be on graph theory and its applications. For example, applications may include the shortest path problem, the connector problem, etc.
+				</li>
+			</ul>
+
+			
+			<h3> Topology </h3> <hr>
+			<ul>
+				<li style="margin-bottom:10px;"> (<b>Classification of Surfaces</b>)
+				</li>	
+			
+				<li style="margin-bottom:10px;"> (<b>Algebraic Topology</b>) There are two projects in this topic. One is more broad and the other has a focus on covering spaces and the Galois correspondence
+				</li>
+			
+				<li style="margin-bottom:10px;"> (<b>Manifolds</b>) There are two projects in this topic. One will go through Lee's <em>Introduction to Smooth Manifolds</em>, and the other is looking into what curves, surfaces and higher dimensional versions of these concepts are. The goal of this to make sense of things that aren't just n-dimensional real space.
+				</li>
+			
+				<li style="margin-bottom:10px;"> (<b> Dynamics on Various Topological - and Algebraic Spaces</b>) Spaces are never stationary and admit action(s), i. e ,,dynamics". A good example is rotations of the circle. Keywords: Topology, group action, rings, vector spaces. The start would be from group actions and then moving onwards from there
+				</li>
+			</ul>
+			
+			
+			<h3> Analysis </h3> <hr>
+			<ul>
+				<li style="margin-bottom:10px;"> (<b>Functinal Analysis</b>)
+				</li>	
+			
+				<li style="margin-bottom:10px;"> (<b>Measure Theory</b>)
+				</li>
+			
+				<li style="margin-bottom:10px;"> (<b>The Ring of Matrices</b>)Consider this an abstract and more indepth study of our favourite objects from linear algebra. We will visit (the) trace, homomorphisms and their uniqueness, use the spectral theorem like there is no tomorrow. We will ask questions such as  how many invertible matrices are there? This is a mix of analysis and algebra.
+				</li>
+			</ul>		
+
+			
+			<h3> Algebra</h3> <hr>
+			<ul>
+				<li style="margin-bottom:10px;">(<b>Category Theory</b>) This topic will be about category theory with a view towards homological algebra.
+				</li>
+
+				<li style="margin-bottom:10px;">(<b>Algebraic Geometry</b>) This project will follow the book <em>Ideals, Varieties, and Algorithms</em> by Cox, Little, and O'Shea
+				</li>
+			
+				<li style="margin-bottom:10px;"> (<b>The Ring of Matrices</b>)Consider this an abstract and more indepth study of our favourite objects from linear algebra. We will visit (the) trace, homomorphisms and their uniqueness, use the spectral theorem like there is no tomorrow. We will ask questions such as  how many invertible matrices are there? This is a mix of analysis and algebra.
+				</li>
+
+				<li style="margin-bottom:10px;"> (<b>Lie Algebras of Matrix Groups</b>)
+			
+			</ul>
+
+
+			<h3> History/Philosophy </h3> <hr>
+			<ul>
+				<li style="margin-bottom:10px;">(<b>History of Math</b>) This project will look at the history of mathematics with a focus on contributions from women and the LGBTQ+ community.
+				</li>
+
+				<li style="margin-bottom:10px;">(<b>Philosophy of Math</b>) This project will review some of the literature about the philosophy of mathematics, in particular, a paper on reliability of mathematical inference.
+				</li>
+			</ul>
+
+			
+</div>
+
+
+
+
+
+
+</BODY>
+</HTML>
