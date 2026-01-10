@@ -1,1 +1,108 @@
+<!DOCTYPE html>
 
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <title> DRP</title>
+</head>
+<body>
+
+  <div class="header">
+  <img style="position:absolute;right:43px;top:63px;widht:90px;height:90px;" src="assets/images/logo.svg" alt="UNL">
+  <h1>DRP @ UNL</h1>
+  <p> Directed Reading Program of the Mathematics Department<br>University of Nebraska-Lincoln            </p>
+</div>
+
+		<div class="topnav">
+
+			<a href="index.html">Home</a>
+ 			<a href="expectations.html">Expectations</a>
+			<a style="cursor:default; background-color:#d00000;">Projects</a>
+			<div class="dropdown">
+    			<button class="dropbtn">Past Projects
+      				<i class="fa fa-caret-down"></i>
+    			</button>
+    			<div class="dropdown-content">
+      				<a href="projects_S25.html">Spring 2025</a>
+    		  	</div>
+ 			 </div>
+			<a href="howtoapply.html" style="float:right;">How to Apply</a>
+
+		</div>
+
+		<div class="card">
+			<h2> Project List </h2> <hr>
+			This is a list of topics proposed by current graduate students interested in mentoring this semester. 
+
+
+			<h3> Discrete Math </h3> <hr>
+
+			<ul>
+				<li style="margin-bottom:10px;">(<b>Coding Theory and/or Combinatorics</b>) 
+				</li>
+				<li style="margin-bottom:10px;">(<b>Mathematical Music Theory or Algebraic Combinatorics</b>) 
+				</li>
+			</ul>
+
+			
+			<h3> Topology </h3> <hr>
+			<ul>
+				<li style="margin-bottom:10px;">(<b>A short introduction to an algebraic knot invariant or Khovanov homology</b>) In this project we will strive to understand Khovanov's link homology theory. While the project is knot theoretical in nature, there will be some heavy emphasis on the algebra, some familiarity with vector spaces (or modules and abstract algebra more generally) would be beneficial but not strictly necessary. Likewise, some familiarity with knots and links could be beneficial and allow us to "hit the ground running," but again is not strictly necessary.
+				</li>
+			</ul>
+
+			<h3> Geometry </h3> <hr>
+			<ul>
+				<li style="margin-bottom:10px;">(<b> Axiomatic Geometry or finite Geometry</b>) In this project, we will be working through the text learning, how geometry can be built up from the most basic of assumptions, various models of geometry beyond the typical plane and along the way see how alternative axioms can give rise to very distinct and nice geometries of their own, such as projective geometry.
+				</li>
+			</ul>
+			
+			
+			<h3> Analysis </h3> <hr>
+			<ul>
+				<li style="margin-bottom:10px;">(<b>Dynamical Systems or Partial Differential Equations or Infinite Dimensional Linear Algebra</b>) This project is on introducing Functional Analysis through highlighting the differences from standard linear algebra.
+				</li>	
+			</ul>		
+
+			
+			<h3> Algebra</h3> <hr>
+			<ul>
+				<li style="margin-bottom:10px;">(<b>The p-adic numbers</b>) This project is on introduce the p-adic numbers and discuss an analogy between polynomials and the p-adics. It includes briefly discussing p-derivations, which are a sort of derivative by a prime number.
+				</li>
+				
+				<li style="margin-bottom:10px;">(<b>Abstract Algebra or Linear Algebra or Geometric Algebra</b>)
+				</li>
+
+				<li style="margin-bottom:10px;">(<b>Category Theory</b>)
+				</li>
+
+				<li style="margin-bottom:10px;">(<b>Basic Representation Theory with Applications in Inorganic Chemistry</b>)
+				</li>
+
+				<li style="margin-bottom:10px;">(<b>Number Theory or Algebra</b>)
+				</li>
+			</ul>
+
+
+			<h3> History/Philosophy </h3> <hr>
+			<ul>
+				<!--
+				<li style="margin-bottom:10px;">(<b>History of Math</b>) This project will look at the history of mathematics with a focus on contributions from women and the LGBTQ+ community.
+				</li>
+
+				<li style="margin-bottom:10px;">(<b>Philosophy of Math</b>) This project will review some of the literature about the philosophy of mathematics, in particular, a paper on reliability of mathematical inference.
+				</li>
+				-->
+			</ul>
+
+			
+</div>
+
+
+
+
+
+
+</BODY>
+</HTML>
